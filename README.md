@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0f1a,1a1a2e&height=250&section=header&text=Kareem%20Elsandarosy&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3A8E7A,114474&height=250&section=header&text=Kareem%20Elsandarosy&fontSize=60&fontColor=ffffff&animation=fadeIn&v=1" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+.Net+Engineer;Always+Learning+%26+Building;Clean+Code+|+Scalable+Apps+|+Teamwork" alt="Typing SVG" />
