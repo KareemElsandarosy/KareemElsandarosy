@@ -1,16 +1,48 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Kareem%20Ahmed%20Elsandarosy&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!--
-**KareemElsandarosy/KareemElsandarosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+.Net+Engineer;Always+Learning+%26+Building;Clean+Code+|+Scalable+Apps+|+Teamwork" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+* 🎓 Bachelor of Computers & AI – Damietta University (2023 – 2027).
+* 💼 Full Stack .NET Intern @ DEPI (2025 – 2026).
+* 💻 Always learning new tools, frameworks, and sharpening my Problem Solving skills.
+
+### 🛠️ Toolbox
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,vs,mysql" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  </a>
+</p>
+
+---
+
+### ⚡ Featured Project
+
+🛒 E-Commerce Web Platform (MVP).
+  * ✅ Built with ASP.NET Core, Blazor, EF, SQL Server
+  * 🔑 Features: Authentication, Role-based Authorization, Product Management, Orders & Payments
+  * 📈 Improved checkout flow → reduced errors by 30%
+  * ⚡ Boosted responsiveness by 40%
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
