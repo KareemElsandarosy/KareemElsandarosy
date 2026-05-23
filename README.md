@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysqlوhtml,css,js,angular,bootstrapوgit,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysqlوhtml,css,js,angular,bootstrapوgit,github,vscode,linux">
   </a>
 </p>
 
