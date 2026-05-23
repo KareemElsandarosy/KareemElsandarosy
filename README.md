@@ -10,6 +10,7 @@
 
 * 🎓 Bachelor of Computers & AI – Damietta University (2023 – 2027).
 * 💼 Full Stack .NET Intern @ DEPI (2025 – 2026).
+* 🧠 Into Problem Solving, Data Structures, System Design
 * 💻 Always learning new tools, frameworks, and sharpening my Problem Solving skills.
 
 ---
@@ -19,9 +20,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql" />
-    <br><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
-    <br><br>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
   </a>
 </p>
